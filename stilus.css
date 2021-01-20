@@ -1,0 +1,17 @@
+img{
+    height: 200px;
+    background: rgb(255, 218, 218);
+}
+body{
+    background-color: rgb(211, 211, 211);
+}
+.jumbotron{
+    background-image: url("kepek/kep2.jpg");
+    color: white;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: gray;
+}
